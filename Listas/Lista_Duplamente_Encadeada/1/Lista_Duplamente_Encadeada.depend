@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1592848247 source:c:\users\gabri\desktop\lista_duplamente_encadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1592846303 c:\users\gabri\desktop\lista_duplamente_encadeada\lista.h
+
+1592849923 source:c:\users\gabri\desktop\lista_duplamente_encadeada\lista.c
+	"lista.h"
+	<stdio.h>
+	<stdlib.h>
+
+1592848247 source:c:\users\gabri\desktop\estrutura de dados\listas\lista_duplamente_encadeada\lista_duplamente_encadeada(modelo)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1592846303 c:\users\gabri\desktop\estrutura de dados\listas\lista_duplamente_encadeada\lista_duplamente_encadeada(modelo)\lista.h
+
+1592850282 source:c:\users\gabri\desktop\estrutura de dados\listas\lista_duplamente_encadeada\lista_duplamente_encadeada(modelo)\lista.c
+	"lista.h"
+	<stdio.h>
+	<stdlib.h>
+
+1592852370 source:c:\users\gabri\desktop\lista_duplamente_encadeada\lista_duplamente_encadeada(modelo)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1592852229 c:\users\gabri\desktop\lista_duplamente_encadeada\lista_duplamente_encadeada(modelo)\lista.h
+
+1592852297 source:c:\users\gabri\desktop\lista_duplamente_encadeada\lista_duplamente_encadeada(modelo)\lista.c
+	"lista.h"
+	<stdio.h>
+	<stdlib.h>
+
+1592852297 source:c:\users\gabri\desktop\lista_duplamente_encadeada\1\lista.c
+	"lista.h"
+	<stdio.h>
+	<stdlib.h>
+
+1592852229 c:\users\gabri\desktop\lista_duplamente_encadeada\1\lista.h
+
+1592852370 source:c:\users\gabri\desktop\lista_duplamente_encadeada\1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1592852297 source:c:\users\gabri\desktop\1\lista.c
+	"lista.h"
+	<stdio.h>
+	<stdlib.h>
+
+1592852229 c:\users\gabri\desktop\1\lista.h
+
+1592852370 source:c:\users\gabri\desktop\1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+

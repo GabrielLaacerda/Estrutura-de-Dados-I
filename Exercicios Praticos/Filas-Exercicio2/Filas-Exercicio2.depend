@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1628098026 source:c:\users\gabri\documents\filas-exercicio2\filas-exercicio2.c
+	<stdio.h>
+	<stdlib.h>
+	"Filas-Exercicio2.h"
+
+1628097988 c:\users\gabri\documents\filas-exercicio2\filas-exercicio2.h
+
+1628098032 source:c:\users\gabri\documents\filas-exercicio2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Filas-Exercicio2.h"
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590158005 source:c:\users\gabri\documents\code blocks\ex_arq\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

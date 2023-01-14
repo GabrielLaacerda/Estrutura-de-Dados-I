@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1590159840 source:c:\users\gabri\documents\code blocks\fputs\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1590163615 source:c:\users\gabri\documents\code blocks\fscanf\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1594079287 source:c:\users\gabri\desktop\bubbluesort\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1594083612 source:c:\users\gabri\desktop\estrutura de dados\algoritimos_de_ordenaçao\bubblesort_(arquivos)\main.c
+	<stdio.h>
+	<stdlib.h>
+

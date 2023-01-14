@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1628095934 source:c:\users\gabri\documents\listas-exercicio3\listas-exercicio3.c
+	<stdio.h>
+	<stdlib.h>
+	"Listas-Exercicio3.h"
+
+1628095606 c:\users\gabri\documents\listas-exercicio3\listas-exercicio3.h
+
+1628095605 source:c:\users\gabri\documents\listas-exercicio3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Listas-Exercicio3.h"
+

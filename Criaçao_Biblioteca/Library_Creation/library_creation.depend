@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1592448062 source:c:\users\gabri\desktop\library_creation\calcular.c
+	"calcular.h"
+
+1592448062 c:\users\gabri\desktop\library_creation\calcular.h
+
+1592448178 source:c:\users\gabri\desktop\library_creation\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calcular.h"
+
+1592448062 source:c:\users\gabri\desktop\estrutura de dados\criaçao_biblioteca\library_creation\calcular.c
+	"calcular.h"
+
+1592448062 c:\users\gabri\desktop\estrutura de dados\criaçao_biblioteca\library_creation\calcular.h
+
+1592448178 source:c:\users\gabri\desktop\estrutura de dados\criaçao_biblioteca\library_creation\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calcular.h"
+
